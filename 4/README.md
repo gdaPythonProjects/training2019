@@ -15,3 +15,6 @@ https://www.codewars.com/kata/5421c6a2dda52688f6000af8
 https://www.codewars.com/kata/simple-prime-number-generator
 Lekcja o generatorach + jak generatory wpływają na użycie pamięci w większej skali (od połowy filmiku): 
 https://www.youtube.com/watch?v=bD05uGo_sVI
+
+#### 6. Sprawdzanie poprawności Sudoku
+https://www.codewars.com/kata/sudoku-solution-validator
