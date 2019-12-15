@@ -105,3 +105,8 @@ venv.bak/
 
 #pycharm
 .idea
+
+# Mac Files
+.DS_Store
+.AppleDouble
+.LSOverride
