@@ -1,6 +1,6 @@
 ### Linkownia
 - Popularny w branży przewodnik po podstawowych poleceniach gita:
-  https://rogerdudler.github.io/git-guide/index.pl.htmlc.
+  https://rogerdudler.github.io/git-guide/index.pl.html
 - Przykłady rysunkowe:
   https://marklodato.github.io/visual-git-guide/index-pl.html
 - Oficjalny podręcznik gita (wersja angielska trochę bogatsza):
